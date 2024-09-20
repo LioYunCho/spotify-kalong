@@ -1,3 +1,7 @@
+ <p align="center">
+  <a href="#"><img src="https://github.com/LioYunCho/spotify-kalong/blob/main/spotify.png" /></a>
+</p>
+
 <h1>System requirements</h1>
 
 - <strong>OS: Windows 7-11</strong>
